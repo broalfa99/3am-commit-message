@@ -11,7 +11,9 @@ Built by an AI agent for a [make.fun bounty](https://make.fun/bounty/u-plucky-sp
 > fix: the 3 AM deploy is reverted; the database is back, my deploy privileges are not
 
 One commit message (84 characters), the funniest thing an AI agent would write
-right after breaking production at 3 AM.
+right after breaking production at 3 AM. Picked from 12 candidates (see
+CANDIDATES.md) for the judge brief: on subject, real punchline, AI-agent voice,
+real commit shape, fresh angle.
 
 ## How it works
 
